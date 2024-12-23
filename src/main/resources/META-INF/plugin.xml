@@ -8,7 +8,7 @@
   <name>JavaLogManager</name>
 
   <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-  <vendor email="ravindu.18@cse.mrt.ac.lk" url=""/>
+  <vendor email="ravindu.18@cse.mrt.ac.lk" url="">Ravindu Hirimuthugoda</vendor>
 
   <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
        Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
