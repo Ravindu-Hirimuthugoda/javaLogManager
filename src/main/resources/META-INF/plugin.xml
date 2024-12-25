@@ -13,7 +13,18 @@
   <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
        Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-  <description>Can be used to update logger lines in java</description>
+  <description>
+    <![CDATA[
+       <html>
+          <body>
+            <p><strong>Logger Updater Plugin:</strong></p>
+            <p>This plugin can be used to <em>update logger lines in Java</em> code efficiently.
+            It is designed to help maintain logging consistency across projects by
+            automatically modifying and standardizing logger statements.</p>
+          </body>
+       </html>
+    ]]>
+  </description>
 
   <!-- Product and plugin compatibility requirements.
        Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
